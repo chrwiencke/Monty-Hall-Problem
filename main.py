@@ -31,6 +31,11 @@ for _ in range(numbers_of_matches):
         print(f"You won and your score is now {player_won} to {player_lost} matches lost")
 
 print()
-print(f"You have done {numbers_of_matches} matches.")
+print(f"You have completed {numbers_of_matches} matches.")
 print(f"You lost {player_lost} times, which is loosing {(player_lost/numbers_of_matches*100):.1f}% of the matches")
 print(f"You have you won {player_won} times, which is winning {(player_won/numbers_of_matches*100):.1f}% of the matches")
+while True: 
+    answer = input("Type (exit) to exit: ") 
+    if answer == "exit": 
+        print("BOO!")
+        break 
