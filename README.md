@@ -20,5 +20,3 @@ Type how many times you want to let it simulate
  ```
 # If you cant read/✌️🤏✋👐🤙🤚👋👏🙌🖐
 https://www.youtube.com/watch?v=MxQaByWOv9U
-
-![Statistics](https://github-readme-stats.vercel.app/api?username=SoftyMods&repo=github-readme-stats&theme=midnight-purple)
