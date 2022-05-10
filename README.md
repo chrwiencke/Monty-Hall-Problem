@@ -1,4 +1,5 @@
-https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple
+![Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)
+
 
 # Monty-Hall-Problem
 This project is to prove my math teacher wrong. I wanted to make a bet with him for A's for everyone in the class but he did not want to do that D:
