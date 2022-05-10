@@ -1,6 +1,3 @@
-![Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)
-
-
 # Monty-Hall-Problem
 This project is to prove my math teacher wrong. I wanted to make a bet with him for A's for everyone in the class but he did not want to do that D:
 
@@ -23,3 +20,5 @@ Type how many times you want to let it simulate
  ```
 # If you cant read/✌️🤏✋👐🤙🤚👋👏🙌🖐
 https://www.youtube.com/watch?v=MxQaByWOv9U
+
+![Statistics](https://github-readme-stats.vercel.app/api?username=anuraghazra&repo=github-readme-stats&theme=midnight-purple)
